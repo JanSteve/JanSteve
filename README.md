@@ -95,9 +95,9 @@ Git • GitHub • VS Code • Jupyter Notebook • Figma
 
 ## 🎯 Quick Facts
 
-- 🌍 **Location** - Bharuch, Gujarat, India
+- 🌍 **Location** - Vadodara, Gujarat, India
 - 🎓 **Focus** - AI, Machine Learning, Full-Stack Development
-- 💬 **Languages** - English, Hindi
+- 💬 **Languages** - English, Hindi,Tamil
 - 📚 **Learning** - Advanced AI concepts, Game development, Cloud technologies
 
 ---
