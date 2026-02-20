@@ -87,7 +87,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Figma
 ## 📞 Let's Connect
 
 - 💼 **LinkedIn** - [Connect with me](https://linkedin.com)
-- 🌐 **Portfolio** - [View my work](https://stevedaniel.framer.website)
+- 🌐 **Portfolio** - [View my work](https://jan-steve-portfolio.vercel.app)
 - 📧 **Email** - stevedaniel2004@gmail.com
 - 🐙 **GitHub** - [@JanSteve](https://github.com/JanSteve)
 
