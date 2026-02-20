@@ -48,7 +48,7 @@ Git • GitHub • VS Code • Jupyter Notebook • Figma
 
 ## 🎓 Education
 
-**BSc in Computer Applications (Specialization: AI)**
+**Integrated Masters of Computer Applications (Specialization: AI)**
 - Parul University, India
 - Enrolled: 2023-2027
 - Focus: Artificial Intelligence, Machine Learning, Full-Stack Development
