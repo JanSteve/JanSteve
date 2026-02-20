@@ -6,7 +6,7 @@
 
 **Passionate about Artificial Intelligence, Machine Learning, and Clean Code**
 
-[LinkedIn](https://linkedin.com) • [Portfolio](https://stevedaniel.framer.website) • [GitHub](https://github.com/JanSteve)
+[LinkedIn](https://linkedin.com) • [Portfolio](https://jan-steve-portfolio.vercel.app) • [GitHub](https://github.com/JanSteve)
 
 </div>
 
