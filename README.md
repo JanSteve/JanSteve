@@ -4,7 +4,7 @@
 
 **Entry-level AWS Cloud Engineer** focused on **Management & Governance**: multi-account setup, IAM guardrails, logging, monitoring, and cost visibility.
 
-[LinkedIn](https://linkedin.com) • [Portfolio](https://jjan-steve-portfolio.vercel.app/) • [GitHub](https://github.com/JanSteve)
+[LinkedIn](https://linkedin.com) • [Portfolio](https://jan-steve-portfolio.vercel.app/) • [GitHub](https://github.com/JanSteve)
 
 ---
 
