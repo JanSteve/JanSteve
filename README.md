@@ -74,7 +74,7 @@ I'm an **AI Specialist student at Parul University** with a strong passion for b
 
 - **Email:** stevedaniel2004@gmail.com
 - **LinkedIn:** [R Jan Steve Daniel](https://linkedin.com)
-- **Portfolio:** [jjan-steve-portfolio.vercel.app](https://jjan-steve-portfolio.vercel.app/)
+- **Portfolio:** (https://jan-steve-portfolio.vercel.app/)
 
 ---
 
