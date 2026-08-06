@@ -4,7 +4,7 @@
 
 **Entry-level AWS Cloud Engineer** focused on **Management & Governance**: multi-account setup, IAM guardrails, logging, monitoring, and cost visibility.
 
-[LinkedIn](https://linkedin.com) • [Portfolio](https://jan-steve-portfolio.vercel.app/) • [GitHub](https://github.com/JanSteve)
+[LinkedIn](https://linkedin.com) • [Portfolio](https://stevedaniel.me/) • [GitHub](https://github.com/JanSteve)
 
 ---
 
@@ -74,7 +74,7 @@ I'm an **AI Specialist student at Parul University** with a strong passion for b
 
 - **Email:** stevedaniel2004@gmail.com
 - **LinkedIn:** [R Jan Steve Daniel](https://linkedin.com)
-- **Portfolio:** (https://jan-steve-portfolio.vercel.app/)
+- **Portfolio:** (https://stevedaniel.me/)
 
 ---
 
